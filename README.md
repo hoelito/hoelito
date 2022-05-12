@@ -24,6 +24,19 @@ I am a student in network infrastructure and cybersecurity  <img src="https://me
 
 - 💻 I like working on open source programs.
 - 🎣 Free time --> at the water's edge fishing.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ho%C3%ABl-le-pennec-8a39b720b/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hoel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ho%C3%ABl-le-pennec-8a39b720b/)
 
+---
 
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/debian/debian-original-wordmark.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="40" height="40" />
+</div>
