@@ -18,7 +18,8 @@
 </div>
 
 ---
-
+<div align="center">
+  
 ### :man_technologist: About Me :
 I am a student in network infrastructure and cybersecurity  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
 
@@ -26,7 +27,6 @@ I am a student in network infrastructure and cybersecurity  <img src="https://me
 - 🎣 Free time --> at the water's edge fishing.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hoel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ho%C3%ABl-le-pennec-8a39b720b/)
 
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -46,3 +46,4 @@ I am a student in network infrastructure and cybersecurity  <img src="https://me
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hoelito&theme=flag-india&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+</div>
