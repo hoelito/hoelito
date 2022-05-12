@@ -22,5 +22,7 @@
 ### :man_technologist: About Me :
 I am a student in network infrastructure and cybersecurity  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
 
+- 💻 I like working on open source programs.
+- 🎣 Free time --> at the water's edge fishing.
 
 
