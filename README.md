@@ -13,5 +13,14 @@
   <h1>
   Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    I'm Hoël (@hoelito)
   </h1>
 </div>
+
+---
+
+### :man_technologist: About Me :
+I am a student in network infrastructure and cybersecurity  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
+
+
+
